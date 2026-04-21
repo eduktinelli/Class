@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include "equacaoPrimeiro.h"
+#include "equacaoSegundo.h"
 
 void menu(void)
 // adiciono a função de menu 
@@ -26,7 +27,8 @@ void menu(void)
                 equacaoPrimeiro();
                 break;
             case 2:
-                //implementar funcao de 2 grau
+            //o programa puxa a funcao do calculo de segundo grau da biblioteca padrao equacaoSegundo.h
+                equacaoSegundo();
                 break;
             case 3:
                 printf("Desenvolvido por Eduardo Tinelli, Joao Eduardo, Kaue Paulino\n");

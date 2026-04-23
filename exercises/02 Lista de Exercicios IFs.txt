@@ -1,0 +1,72 @@
+Exercício 1
+Desenvolver um algoritmo que leia um número inteiro e verifique se o número é divisível por 5 e por 3 ao mesmo tempo.
+
+Exercício 2
+Dados quatro números distintos, desenvolver um algoritmo que determine e imprima a soma dos três menores.
+
+Exercício 3
+Desenvolver um algoritmo que leia os coeficientes (a , b e c) de uma equação do segundo grau e calcule suas raízes. O programa deve mostrar, quando possível, o valor das raízes calculadas e a classificação das raízes.
+
+Exercício 4
+Desenvolver um algoritmo para ler um número “x” e calcular e imprimir o valor de “y” de acordo com as condições abaixo:
+y = x , se x < 1;
+y = 0 , se x = 1;
+y = x² , se x > 1;
+
+Exercício 5
+Desenvolver um algoritmo para pedir um mês e ano e exibir o número de dias do mês / ano digitados.
+
+Exercício 6
+Desenvolver um algoritmo para ler o número de uma sala de aula, sua capacidade e o total de alunos matriculados na mesma e imprimir uma linha mostrando o número da sala, sua capacidade, o número de cadeiras ocupadas e sua disponibilidade indicando se a sala está lotada ou não.
+
+Exercício 7
+Desenvolver um algoritmo que determine o imposto de renda cobrado de um funcionário pelo governo. Seu programa deverá ler o valor do salário mínimo,
+o n° de dependentes, o salário do funcionário e o taxa de imposto normal que já foi paga pelo funcionário. O imposto bruto é:
+• 20% do salário do funcionário se o funcionário ganha mais de 12 salários mínimos;
+• 8% do salário do funcionário se o funcionário ganha mais de 5 salários mínimos e
+• Quem ganha menos ou igual de 5 salários mínimos não é cobrado o imposto de renda.
+Obs.: Sabe-se que o governo cobra 4% de taxa adicional sobre o IMPOSTO BRUTO.
+
+Exercício 8
+Desenvolver um algoritmo para calcular a conta de água para a SANEAGO. O custo da água varia dependendo se o consumidor é residencial, comercial ou industrial. A regra para calcular a conta é:
+– Residencial: R$5,00 de taxa mais R$0,05 por m³ gastos;
+– Comercial: R$500,00 para os primeiros 80 m³ gastos mais R$0,25 por m³ gastos;
+– Industrial: R$800,00 para os primeiros 100 m³ gastos mais R$0,04 por m³ gastos;
+O programa deverá ler a conta do cliente, consumo de água por metros cúbicos e o tipo de consumidor ( residencial, comercial e industrial ). Como resultado, imprima a
+conta do cliente e o valor real a ser pago pelo mesmo.
+
+Exercício 9
+Uma locadora de filmes tem a seguinte regra para aluguel de fitas.
+– As segundas, terças e quintas (2, 3 e 5): um desconto de 40% em cima do preço normal;
+– As quartas, sextas, sábados e domingos (4, 6, 7 e 1): preço normal;
+– Aluguel de fitas comuns: preço normal e aluguel de lançamentos: acréscimo de 15% em cima do preço normal.
+
+Exercício 10
+Desenvolver um algoritmo com as opções de calcular e imprimir o volume e a área da superfície de um cone reto, um cilindro ou uma esfera.
+O algoritmo deverá ler a opção da figura desejada (cone / cilindro / esfera) e de acordo com a opção escolhida calcular o volume e a área da superfície da figura pedida. Fórmulas:
+
+Exercício 11
+Um certo aço é classificado de acordo com o resultado de três testes abaixo, que devem determinar
+se o mesmo satisfaz as especificações:
+
+1. Conteúdo de Carbono abaixo de 7;
+2. Dureza Rockwell maior do que 50;
+3. Resistência á tração maior do que 80.000 psi;
+
+Exercício 12
+Fazer um algoritmo que dado um número, calcular e escrever se este é positivo ou negativo, e múltiplo ou não de 3, ao mesmo tempo.
+
+Exercício 13
+Fazer um algoritmo que calcule e imprima o salário reajustado de um funcionário de acordo com as seguintes regras:
+• Salário de até R$300,00 reajuste de 50%;
+• Salário maiores que R$300,00 reajuste de 30%;
+
+Exercício 14
+Fazer um algoritmo que dado três valores A, B e C verificar se eles formam um triângulo. Formando triângulo, dizer se
+é triângulo equilátero, isósceles ou escaleno.
+
+Exercício 15
+Fazer um algoritmo que dado os lados de um triângulo A, B e C. Dizer se os lados formam um triângulo:
+• Retângulo = (A² = B² + C²);
+• Obtusângulo = (A² > B² + C²);
+• Acutângulo = (A² < B² + C²) ;
